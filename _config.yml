@@ -29,7 +29,7 @@ url: "https://nettenz.github.io/" # the base hostname & protocol for your site, 
 twitter_username: netteNzx
 github_username:  netteNz
 
-title-logo: /_images/nettenzlogo.png
+title-logo: /nettenzlogo-dark.png
 
 # Removing minima theme so I can customize
 # Build settings
