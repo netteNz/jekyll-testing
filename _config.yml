@@ -29,8 +29,9 @@ url: "https://nettenz.github.io/" # the base hostname & protocol for your site, 
 twitter_username: netteNzx
 github_username:  netteNz
 
+# Removing minima theme so I can customize
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
